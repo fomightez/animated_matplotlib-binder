@@ -4,3 +4,4 @@ seaborn
 scipy
 pandas
 nbgitpuller
+ipympl
