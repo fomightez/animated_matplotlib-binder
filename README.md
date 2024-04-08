@@ -1,4 +1,4 @@
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/animated_matplotlib-binder/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/animated_matplotlib-binder/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)
 
 # animated_matplotlib-binder
 This repository demonstrates animated plots with Matplotlib in JupyterLab and Jupyter Notebook 7+ interfaces in sessions served via the MyBinder system.   
