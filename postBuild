@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Set the notebook file to be trusted so that the visualizations with the widget play controller slider,
+# backed by javascript, work when the notebook is reopened in an active session.
+jupyter trust ./index.ipynb 
