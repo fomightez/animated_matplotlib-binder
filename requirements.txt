@@ -20,3 +20,4 @@ cufflinks
 voila
 ipywidgets
 nbgitpuller
+ipympl
