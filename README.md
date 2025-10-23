@@ -15,7 +15,8 @@ Click on `launch binder` badge above to spin up a sesion where you can run anima
 ### JupyterLite Consideration
 
 This demo is done in a full-featured, typical Jupyter session.   
-However, many of the approaches will work in JupyterLite, or can be made to work with some accomodations. For a particular example, I have worked through offering JupyterLite-compatible implementations of three of the approaches [here](https://stackoverflow.com/a/79792367/8508004). The information provided there should make clear what options are available, and those examples can be used as a basis for code that will work in JupyterLite.  (At present, all the code examples that will work in JupyterLite will also work back in a typical Jupyter instance with the ipykernel. However, the range of code that will work in typical Jupyter with an ipykernel at this time is much broader, with more options on how 'live' the animation display is.)
+However, many of the approaches will work in JupyterLite, or can be made to work with some accomodations.   
+For a particular example, I have worked through offering JupyterLite-compatible implementations of three of the approaches [here](https://stackoverflow.com/a/79792367/8508004). The information provided there should make clear what options are available, and those examples can be used as a basis for code that will work in JupyterLite.  (At present, all the code examples that will work in JupyterLite will also work back in a typical Jupyter instance with the ipykernel. However, the range of code that will work in typical Jupyter with an ipykernel at this time is much broader, with more options on how 'live' the animation display is.)
 
 ----------
 
